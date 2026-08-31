@@ -24,7 +24,7 @@ a = list(range(10))
 
 # range take 3 parameter  range(start, end , step)
 
-b = list(range(0, 10))
+b = list(range(1, 10))
 c = list(range(3, 10))
 d = list(range(0, 10, 2))
 e = list(range(0, 100, 5))

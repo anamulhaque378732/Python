@@ -76,3 +76,12 @@ def devide(a, b):
 
 
 print(devide(4, 5))
+# anoymous function
+
+
+def greet():
+    print("hello")
+
+
+# a =lamda arg : exepression
+a = lambda: print("Kowshik bandor")
